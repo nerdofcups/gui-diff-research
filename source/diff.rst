@@ -5,12 +5,7 @@ Diff Stuff
 Part 1
 ======
 
-I propose to treat of Poetry in itself and of its various kinds,
-noting the essential quality of each, to inquire into the structure of
-the plot as requisite to a  poem; into the number and nature of
-the parts of which a poem is composed; and similarly into whatever
-else falls within the same inquiry. Following, then, the order of
-nature, let us begin with the principles which come first.
+From Diognetus, not to busy myself about trifling things, and not to give credit to what was said by miracle-workers and jugglers about incantations and the driving away of daemons and such things; and not to breed quails for fighting, nor to give myself up passionately to such things; and to endure freedom of speech; and to have become intimate with philosophy; and to have been a hearer, first of Bacchius, then of Tandasis and Marcianus; and to have written dialogues in my youth; and to have desired a plank bed and skin, and whatever else of the kind belongs to the Grecian discipline. 
 
 Epic poetry and Tragedy, Comedy also and Dithyrambic poetry, and the
 music of the flute and of the lyre in most of their forms, are all in
@@ -30,21 +25,4 @@ pipe, which are essentially similar to these. In dancing, rhythm alone
 is used without 'harmony'; for even dancing imitates character,
 emotion, and action, by rhythmical movement.
 
-There is another art which imitates by means of language alone, and
-that either in prose or verse- which verse, again, may either combine
-different meters or consist of but one kind- but this has hitherto
-been without a name. For there is no common term we could apply to the
-mimes of Sophron and Xenarchus and the Socratic dialogues on the one
-hand; and, on the other, to poetic imitations in iambic, elegiac, or
-any similar meter. People do, indeed, add the word 'maker' or 'poet'
-to the name of the meter, and speak of elegiac poets, or epic (that
-is, hexameter) poets, as if it were not the imitation that makes the
-poet, but the verse that entitles them all to the name. Even when a
-treatise on medicine or natural science is brought out in verse, the
-name of poet is by custom given to the author; and yet Homer and
-Empedocles have nothing in common but the meter, so that it would be
-right to call the one poet, the other physicist rather than poet. On
-the same principle, even if a writer in his poetic imitation were to
-combine all meters, as Chaeremon did in his Centaur, which is a medley
-composed of meters of all kinds, we should bring him too under the
-general term poet.
+From Maximus I learned self-government, and not to be led aside by anything; and cheerfulness in all circumstances, as well as in illness; and a just admixture in the moral character of sweetness and dignity, and to do what was set before me without complaining. I observed that everybody believed that he thought as he spoke, and that in all that he did he never had any bad intention; and he never showed amazement and surprise, and was never in a hurry, and never put off doing a thing, nor was perplexed nor dejected, nor did he ever laugh to disguise his vexation, nor, on the other hand, was he ever passionate or suspicious. He was accustomed to do acts of beneficence, and was ready to forgive, and was free from all falsehood; and he presented the appearance of a man who could not be diverted from right rather than of a man who had been improved. I observed, too, that no man could ever think that he was despised by Maximus, or ever venture to think himself a better man. He had also the art of being humorous in an agreeable way. 
