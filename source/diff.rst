@@ -5,18 +5,26 @@ Diff Stuff
 Part 1
 ======
 
-I propose to treat of Poetry in itself and of its various kinds,
-noting the essential quality of each, to inquire into the structure of
-the plot as requisite to a  poem; into the number and nature of
-the parts of which a poem is composed; and similarly into whatever
-else falls within the same inquiry. Following, then, the order of
-nature, let us begin with the principles which come first.
+I went down yesterday to the Piraeus with Glaucon the son of Ariston,
+that I might offer up my prayers to the goddess; and also because I
+wanted to see in what manner they would celebrate the festival, which
+was a new thing. I was delighted with the procession of the
+inhabitants; but that of the Thracians was equally, if not more,
+beautiful. When we had finished our prayers and viewed the spectacle,
+we turned in the direction of the city; and at that instant
+Polemarchus the son of Cephalus chanced to catch sight of us from a
+distance as we were starting on our way home, and told his servant to
+run and bid us wait for him. The servant took hold of me by the cloak
+behind, and said: Polemarchus desires you to wait.
+
 
 Epic poetry and Tragedy, Comedy also and Dithyrambic poetry, and the
 music of the flute and of the lyre in most of their forms, are all in
 their general conception modes of imitation. They differ, however,
 from one another in three respects- the medium, the objects, the
 manner or mode of imitation, being in each case distinct.
+
+Random text about stuff.
 
 For as there are persons who, by conscious art or mere habit, imitate
 and represent various objects through the medium of color and form, or
@@ -30,21 +38,11 @@ pipe, which are essentially similar to these. In dancing, rhythm alone
 is used without 'harmony'; for even dancing imitates character,
 emotion, and action, by rhythmical movement.
 
-There is another art which imitates by means of language alone, and
-that either in prose or verse- which verse, again, may either combine
-different meters or consist of but one kind- but this has hitherto
-been without a name. For there is no common term we could apply to the
-mimes of Sophron and Xenarchus and the Socratic dialogues on the one
-hand; and, on the other, to poetic imitations in iambic, elegiac, or
-any similar meter. People do, indeed, add the word 'maker' or 'poet'
-to the name of the meter, and speak of elegiac poets, or epic (that
-is, hexameter) poets, as if it were not the imitation that makes the
-poet, but the verse that entitles them all to the name. Even when a
-treatise on medicine or natural science is brought out in verse, the
-name of poet is by custom given to the author; and yet Homer and
-Empedocles have nothing in common but the meter, so that it would be
-right to call the one poet, the other physicist rather than poet. On
-the same principle, even if a writer in his poetic imitation were to
-combine all meters, as Chaeremon did in his Centaur, which is a medley
-composed of meters of all kinds, we should bring him too under the
-general term poet.
+I replied: There is nothing which for my part I like better, Cephalus,
+than conversing with aged men; for I regard them as travellers who
+have gone a journey which I too may have to go, and of whom I ought to
+enquire, whether the way is smooth and easy, or rugged and
+difficult. And this is a question which I should like to ask of you
+who have arrived at that time which the poets call the 'threshold of
+old age' --Is life harder towards the end, or what report do you give
+of it?
