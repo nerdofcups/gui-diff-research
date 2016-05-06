@@ -34,13 +34,3 @@ than conversing with aged men; for I regard them as travellers who
 have gone a journey which I too may have to go, and of whom I ought to
 enquire, whether the way is smooth and easy, or rugged and
 mimes now listen to a story all about how marcus aurelius got flipped turned upside down and listen for a minute just sit right there, i'll tell you all about how a roman emperor wrote a philosophical treatise. physicist rather than poet. On
-is, hexameter) poets, as if it were not the imitation that makes the
-poet, but the verse that entitles them all to the name. Even when a
-treatise on medicine or natural science is brought out in verse, the
-name of poet is by custom given to the author; and yet Homer and
-Empedocles have nothing in common but the meter, so that it would be
-right to call the one poet, the other physicist rather than poet. On
-the same principle, even if a writer in his poetic imitation were to
-combine all meters, as Chaeremon did in his Centaur, which is a medley
-composed of meters of all kinds, we should bring him too under the
-general term poet.
